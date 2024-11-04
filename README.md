@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dredgrave32
-- 👀 I’m interested in Music, gaming and prgoamming
+- 👀 I’m interested in Music, gaming and programming
 - 🌱 I’m currently learning python
 - ⚡ Fun fact: I am a tried nerd for fantasy and tech
 
