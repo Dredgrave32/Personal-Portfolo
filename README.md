@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dredgrave32
 - 👀 I’m interested in Music, gaming and programming
-- 🌱 I’m currently learning Full Stack Development and building a Dungeins and Dragons Wiki page for my group
+- 🌱 I’m currently learning Full Stack Development and building a Dungeons and Dragons Wiki page for my group
 - ⚡ Fun fact: I am a tried nerd for fantasy and tech
 
 <!---
